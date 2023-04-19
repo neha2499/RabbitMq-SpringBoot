@@ -1,0 +1,28 @@
+{"EduCostStatQueryOne":{
+  "year": 2013,
+  "state": "Alabama",
+  "type": "Private",
+  "length": "4-year",
+  "expense": "Fees/Tuition"
+},
+  "EduCostStatQueryTwo": {
+    "year": 2013,
+    "type": "Private",
+    "length": "4-year"
+  },
+  "EduCostStatQueryThree":{
+    "year": 2013,
+    "type": "Private",
+    "length": "4-year"
+  },
+  "EduCostStatQueryFour":{
+    "type": "Private",
+    "length": "4-year",
+    "year_range": "4"
+  },
+  "EduCostStatQueryFive":{
+    "year": 2013,
+    "type": "Private",
+    "length": "4-year"
+  }
+}
